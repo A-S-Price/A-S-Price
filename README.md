@@ -1,16 +1,17 @@
-# Shane Price
+# Austin Price
 
-Cybersecurity student building hands-on labs and practical projects.
+Cybersecurity student focused on hands-on labs and real-world security practices.
 
-## 🔥 Featured
-- [Vulnerability Management Lab](https://github.com/A-S-Price/vulnerability-management) — Tenable baseline → remediation → rescan proof
+## 🔥 Featured Project
+- [Vulnerability Management Lab](https://github.com/A-S-Price/vulnerability-management)  
+  End-to-end process: scan → remediate → validate using Tenable
 
-## 🧰 Skills I'm using
-- Vulnerability management (Tenable)
-- Windows Server + hardening
-- Azure / Sentinel basics (growing)
-- Networking fundamentals
+## 🧰 Skills in Progress
+- Vulnerability Management
+- Windows Hardening
+- Networking
+- Azure / SIEM fundamentals
 
-## 📌 What I'm working on next
-- Home Network Security Audit & Hardening Report
-- Threat hunting practice (KQL)
+## 📌 Current Focus
+- Home Network Security Audit & Hardening
+- Threat Hunting with KQL
