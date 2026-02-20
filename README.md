@@ -4,7 +4,7 @@ Cybersecurity student focused on hands-on labs and real-world security practices
 
 ## 🔥 Featured Projects
 
-### 🛡️ Brute Force Detection & Response Lab (Microsoft Sentinel)
+### 🛡️ Microsoft Sentinel: Brute Force Detection & Response
 - Built a custom SIEM detection rule using KQL to identify repeated failed logons  
 - Investigated external brute-force attempts against an internet-facing VM  
 - Analyzed attacker IP behavior and validated no successful compromise  
@@ -24,7 +24,7 @@ Cybersecurity student focused on hands-on labs and real-world security practices
 
 ---
 
-### 🔍 Vulnerability Management Lab
+### 🔍 Tenable: Vulnerability Management & Remediation
 - Performed vulnerability scanning, remediation, and validation using Tenable  
 - Documented the full lifecycle: detection → remediation → verification  
 
