@@ -12,13 +12,13 @@ Cybersecurity student focused on hands-on labs and real-world security practices
   End-to-end process: scan → remediate → validate using Tenable
 
 ## 🧰 Skills in Progress
-- Detection Engineering & SIEM (MDE, KQL, alert triage)
-- Threat Hunting & Log Analysis
-- Windows & Endpoint Security
 - Vulnerability Management (Tenable)
-- Networking Fundamentals (traffic analysis, DNS, troubleshooting)
+- Windows Security & Hardening
+- Networking Fundamentals (TCP/IP, DNS, troubleshooting)
+- Azure (VMs, Log Analytics, Microsoft Sentinel, MDE)
+- SIEM / Threat Detection (KQL, MDE Advanced Hunting)
 
 ## 📌 Current Focus
 - Building detection rules and analyzing alerts in Microsoft Defender
 - Practicing threat hunting and incident investigation workflows
-- Expanding hands-on cybersecurity projects (Azure lab environments)
+- Applying detection and investigation skills in hands-on labs and real-world scenarios
