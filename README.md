@@ -3,22 +3,41 @@
 Cybersecurity student focused on hands-on labs and real-world security practices.
 
 ## 🔥 Featured Projects
-- [PowerShell Download & Execution Detection (MDE + KQL)](https://github.com/A-S-Price/powershell-download-execution-detection)
-  - Built a custom detection rule in Microsoft Defender for Endpoint using KQL
-  - Simulated download-and-execute behavior in a lab environment
-  - Triggered and investigated alerts using process timeline and device data
-  
-- [Vulnerability Management Lab](https://github.com/A-S-Price/vulnerability-management)  
-  End-to-end process: scan → remediate → validate using Tenable
 
-## 🧰 Skills in Progress
-- Vulnerability Management (Tenable)
-- Windows Security & Hardening
-- Networking Fundamentals (TCP/IP, DNS, troubleshooting)
-- Azure (VMs, Log Analytics, Microsoft Sentinel, MDE)
-- SIEM / Threat Detection (KQL, MDE Advanced Hunting)
+### 🛡️ Brute Force Detection & Response Lab (Microsoft Sentinel)
+- Built a custom SIEM detection rule using KQL to identify repeated failed logons  
+- Investigated external brute-force attempts against an internet-facing VM  
+- Analyzed attacker IP behavior and validated no successful compromise  
+- Implemented containment via NSG hardening (restricted SSH access)  
+- Mapped activity to MITRE ATT&CK (T1110 – Brute Force)  
+
+🔗 https://github.com/A-S-Price/sentinel-brute-force-detection-lab
+
+---
+
+### 💻 PowerShell Download & Execution Detection (MDE + KQL)
+- Built a custom detection rule in Microsoft Defender for Endpoint using KQL  
+- Simulated download-and-execute behavior in a lab environment  
+- Investigated alerts using process timeline and device data  
+
+🔗 https://github.com/A-S-Price/powershell-download-execution-detection
+
+---
+
+### 🔍 Vulnerability Management Lab
+- Performed vulnerability scanning, remediation, and validation using Tenable  
+- Documented the full lifecycle: detection → remediation → verification  
+
+🔗 https://github.com/A-S-Price/vulnerability-management
+
+---
+
+## 🧰 Skills
+Azure (VMs, Networking, NSGs), Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (MDE), KQL (Kusto Query Language), Vulnerability Management (Tenable), Windows Security, Networking (TCP/IP, DNS, Troubleshooting), Threat Detection, Incident Investigation, MITRE ATT&CK
+
+---
 
 ## 📌 Current Focus
-- Building detection rules and analyzing alerts in Microsoft Defender
-- Practicing threat hunting and incident investigation workflows
-- Applying detection and investigation skills in hands-on labs and real-world scenarios
+- Threat detection and alert investigation in Microsoft Sentinel & MDE  
+- Building and tuning KQL-based detection rules  
+- Developing hands-on SOC analyst skills through real-world lab scenarios  
