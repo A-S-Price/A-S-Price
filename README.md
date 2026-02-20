@@ -15,7 +15,7 @@ Cybersecurity student focused on hands-on labs and real-world security practices
 
 ---
 
-### 💻 PowerShell Download & Execution Detection (MDE + KQL)
+### 💻 Microsoft Defender for Endpoint: Detecting PowerShell Download & Execution
 - Built a custom detection rule in Microsoft Defender for Endpoint using KQL  
 - Simulated download-and-execute behavior in a lab environment  
 - Investigated alerts using process timeline and device data  
