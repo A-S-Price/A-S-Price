@@ -7,7 +7,7 @@ Learning security by actually doing it, not just studying it.
 
 ### 📊 Home Network Security Risk Assessment & Hardening Report
 
-* Performed a hands-on cybersecurity risk assessment of a home network environment
+* Performed a risk assessment of a home network environment
 * Created a structured risk register using likelihood and impact scoring
 * Identified common risks such as credential reuse, weak configurations, and outdated devices
 * Recommended mitigation strategies aligned with the NIST Cybersecurity Framework (CSF)
