@@ -1,6 +1,6 @@
 # Austin Price
 
-Cybersecurity student focused on hands-on labs and real-world security practices.
+Learning security by actually doing it, not just studying it.
 
 ## 🔥 Featured Projects
 ---
