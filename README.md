@@ -3,6 +3,17 @@
 Cybersecurity student focused on hands-on labs and real-world security practices.
 
 ## 🔥 Featured Projects
+---
+
+### 📊 Home Network Security Risk Assessment & Hardening Report
+
+* Performed a hands-on cybersecurity risk assessment of a home network environment
+* Created a structured risk register using likelihood and impact scoring
+* Identified common risks such as credential reuse, weak configurations, and outdated devices
+* Recommended mitigation strategies aligned with the NIST Cybersecurity Framework (CSF)
+* Documented findings in a formal report with supporting visuals
+
+🔗 https://github.com/A-S-Price/home-network-risk-assessment
 
 ### 🛡️ Microsoft Sentinel: Brute Force Detection & Response
 - Built a custom SIEM detection rule using KQL to identify repeated failed logons  
@@ -33,11 +44,24 @@ Cybersecurity student focused on hands-on labs and real-world security practices
 ---
 
 ## 🧰 Skills
-Azure (VMs, Networking, NSGs), Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (MDE), KQL (Kusto Query Language), Vulnerability Management (Tenable), Windows Security, Networking (TCP/IP, DNS, Troubleshooting), Threat Detection, Incident Investigation, MITRE ATT&CK
+
+**GRC & Risk**
+Risk Assessment, Risk Register Development, Control Mapping, NIST Cybersecurity Framework (CSF)
+
+**Security Operations**
+Microsoft Sentinel (SIEM), Microsoft Defender for Endpoint (MDE), KQL (Kusto Query Language), Threat Detection, Incident Investigation
+
+**Vulnerability Management**
+Tenable, Vulnerability Scanning, Remediation, Risk-Based Prioritization
+
+**Technical Foundations**
+Networking (TCP/IP, DNS), Windows Security, System Hardening, Troubleshooting
+
 
 ---
 
 ## 📌 Current Focus
-- Threat detection and alert investigation in Microsoft Sentinel & MDE  
-- Building and tuning KQL-based detection rules  
-- Developing hands-on SOC analyst skills through real-world lab scenarios  
+* Building GRC-focused projects (risk assessments, policy development, and control mapping)
+* Applying the NIST Cybersecurity Framework (CSF) in practical scenarios
+* Strengthening foundational SOC and detection skills to support risk analysis
+  
