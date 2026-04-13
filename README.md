@@ -15,6 +15,8 @@ Learning security by actually doing it, not just studying it.
 
 🔗 https://github.com/A-S-Price/home-network-risk-assessment
 
+---
+
 ### 🛡️ Microsoft Sentinel: Brute Force Detection & Response
 - Built a custom SIEM detection rule using KQL to identify repeated failed logons  
 - Investigated external brute-force attempts against an internet-facing VM  
